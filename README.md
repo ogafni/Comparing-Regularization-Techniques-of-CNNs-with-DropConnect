@@ -1,3 +1,1 @@
-# Neural-Net-Regularization-Comparison
-
-Project initialization
+# Comparing Regularization Techniques of CNNs with DropConnect
